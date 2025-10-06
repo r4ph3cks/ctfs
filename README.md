@@ -19,17 +19,6 @@ This repository contains solutions, writeups, and analysis for CTF challenges ac
 
 #### **Huntress CTF 2025** 
 [`huntress-ctf-2025`](huntress-ctf-2025/)
-- **Cover All Your Bases** - Base encoding challenge
-- **Maximum Sound** - Audio steganography
-- **QReception** - QR code analysis
-- **Read The Rules** - Web reconnaissance 
-- **Remember All Your Bases** - Advanced base encoding
-- **RFC-9309** - Protocol analysis
-- **Sandy** - Malware analysis and AutoIT decompilation
-- **Spaghetti** - Code obfuscation and decompilation
-- **Spam Test** - Email header analysis
-- **Technical Support** - Social engineering analysis
-- **Verify You Are Human** - Multi-stage reverse engineering
 
 ## Writeup Template
 
@@ -53,6 +42,11 @@ This repository is for educational purposes only. All challenge materials belong
 
 - **GitHub**: [@r4ph3cks](https://github.com/r4ph3cks)
 - **Team**: r4ph3cks (Portugal)
+
+-- Members:
+   - [nos4a2](https://github.com/ang3lo-azevedo) - Ângelo Azevedo
+   - [Ghostzao](https://github.com/Ghostzao) - António Alves
+   - [Reber](https://github.com/Reber) - Bernardo Mendes
 
 ---
 
