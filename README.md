@@ -39,7 +39,7 @@ Use the standardized template in [`writeup-template.md`](writeup-template.md) fo
 
 | Competition | Year | Challenges Solved | Team Performance |
 |-------------|------|-------------------|------------------|
-| Huntress CTF | 2025 | 11/11 | [41st](https://ctf.huntress.com/events/308dbb3b-8095-40e8-a46f-900e11f2a084/scoreboard) |
+| Huntress CTF | 2025 | 15/15 | [41st](https://ctf.huntress.com/events/308dbb3b-8095-40e8-a46f-900e11f2a084/scoreboard) |
 
 ## About r4ph3cks
 
