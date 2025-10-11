@@ -46,7 +46,7 @@ This repository is for educational purposes only. All challenge materials belong
 -- Members:
    - [nos4a2](https://github.com/ang3lo-azevedo) - Ângelo Azevedo
    - [Ghostzao](https://github.com/Ghostzao) - António Alves
-   - [Reber](https://github.com/Reber) - Bernardo Mendes
+   - [Reber](https://github.com/r3ber) - Bernardo Mendes
 
 ---
 
