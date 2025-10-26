@@ -1,11 +1,11 @@
 # [CTF_NAME] [YEAR] - [CHALLENGE_NAME]
 
-- **Team:** r4ph3cks
-- **Date:** [DD/MM/YYYY]
+- **Team:** `r4ph3cks`
+- **Date:** `[DD/MM/YYYY]`
 
 ## Challenge Information
 
-- **Category:** [CATEGORY_NAME]
+- **Category:** `[CATEGORY_NAME]`
 
 - **Description:**
 > [CHALLENGE_DESCRIPTION]
@@ -16,9 +16,9 @@
 > [!NOTE]
 > [ADDITIONAL_NOTES_IF_APPLICABLE]
 
-- **Author:** [CHALLENGE_AUTHOR]
+- **Author:** [`CHALLENGE_AUTHOR`]([AUTHOR_LINK])
 
-- **Given:** [FILES_OR_LINKS]
+- **Given:** [`FILES_OR_LINKS`]
 
 ## Analysis and Solution
 
